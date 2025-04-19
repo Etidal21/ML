@@ -4,7 +4,7 @@ This repository contains the  experiments related to our research.
 
 📄 Paper Title: Prevention of Data Poisonous Threats on Machine Learning Models in e-Health  
 
-✍️ Authors:E. Alruwaili, T. Moulahi  
+✍️ Authors: E. Alruwaili, T. Moulahi  
 
 📅 Year: 2025  
 
